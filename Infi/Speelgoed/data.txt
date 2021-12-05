@@ -1,0 +1,16 @@
+Lightsaber: 79 Batterij, 97 Unobtanium
+HandheldComputer: 3 Batterij, 41 Printplaat, 47 Plastic
+ElectrischeRacebaan: 47 AutoChassis, 2 Printplaat, 3 Plastic, 7 Batterij, 71 Wiel
+QuadDrone: 83 Accu, 3 Plastic, 43 Printplaat
+PikachuPlushy: 31 Batterij
+Trampoline: 61 Schokdemper, 79 IJzer
+BatmobileReplica: 3 BatmobileChassis, 41 Schokdemper, 73 Unobtanium, 11 Wiel
+DanceDanceRevolutionMat: 7 Schokdemper, 59 Batterij
+Printplaat: 83 Hars, 13 Koper, 5 Chip, 17 Led
+Accu: 11 Batterij
+Schokdemper: 73 IJzer, 53 Staal
+Batterij: 67 Staal
+BatmobileChassis: 71 AutoChassis, 89 Staal
+AutoChassis: 79 IJzer
+Wiel: 5 Rubber, 3 IJzer
+Unobtanium: 7 IJzer, 7 Kryptonite
